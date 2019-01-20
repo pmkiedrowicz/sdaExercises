@@ -61,3 +61,7 @@ Utwórz klasę punkt, posiadającą pola publiczne: double x, double y. Utwórz 
 
 # Ex9
 Dodaj do klasy punkt gettery (accessor) i settery (mutuator) oraz metodę double distance(Point other), obliczającą odległość euklidesową. Wzór: sqrt((x1-x2)^2 + (y1-y2)^2)
+
+# Ex10
+Przygotuj program, który pobiera od użytkownika 3 liczby, a następnie wskazuje największą oraz najmniejszą z nich. Dodatkowo program oblicza sumę podanych
+liczb.
