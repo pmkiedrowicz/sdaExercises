@@ -55,3 +55,6 @@ wykorzystując pętle w pętli napisz program który wyświetli tabliczkę mnoż
  7 |  7 14 21 28 35 42 49 56 63
  8 |  8 16 24 32 40 48 56 64 72
  9 |  9 18 27 36 45 54 63 72 81
+ 
+# Ex8
+Utwórz klasę punkt, posiadającą pola publiczne: double x, double y. Utwórz dwa obiekty tej klasy w funkcji main i wyświetl ich zawartość.

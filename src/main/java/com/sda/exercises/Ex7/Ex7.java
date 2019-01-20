@@ -1,8 +1,9 @@
-package com.sda.exercises;
+package com.sda.exercises.Ex7;
 
 import static java.lang.System.out;
 
 public class Ex7 {
+    //multiply values
     static int mp(int x, int y) {
         return x * y;
     }
