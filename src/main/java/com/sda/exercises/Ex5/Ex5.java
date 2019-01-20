@@ -15,6 +15,7 @@ public class Ex5 {
             for (int j = 0; j < 4; j++) {
                 out.print(getHashtag() + " ");
             }
+            out.println();
         }
     }
 }

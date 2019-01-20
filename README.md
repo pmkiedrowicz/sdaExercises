@@ -36,3 +36,7 @@ Napisz program, który za pomocą dwóch pętli (pętla w pętli) wyświetli na 
  # # # # 
  # # # # 
 Pisząc program spróbój wydzielić fragment kodu do metody (np utworzyć metodę która będzie wypisywać pojedynczy znak #)
+
+# Ex6
+Napisz program, który  wypisze kolejne cyfry z liczby w odwrotnej kolejności.
+Na przykład dla liczby int n = 18762 wypisze "2 6 7 8 1"
