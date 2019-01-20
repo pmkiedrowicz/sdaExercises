@@ -58,3 +58,6 @@ wykorzystując pętle w pętli napisz program który wyświetli tabliczkę mnoż
  
 # Ex8
 Utwórz klasę punkt, posiadającą pola publiczne: double x, double y. Utwórz dwa obiekty tej klasy w funkcji main i wyświetl ich zawartość.
+
+# Ex9
+Dodaj do klasy punkt gettery (accessor) i settery (mutuator) oraz metodę double distance(Point other), obliczającą odległość euklidesową. Wzór: sqrt((x1-x2)^2 + (y1-y2)^2)
