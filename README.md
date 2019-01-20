@@ -23,11 +23,11 @@ Dala X = 4.0 y = 19.0
 itd.
 
 # Ex3
-- Zmodyfikuj program z zadania #3 tak aby wypisywał wyniki tylko dla liczb parzystych
+Zmodyfikuj program z zadania #2 tak aby wypisywał wyniki tylko dla liczb parzystych
 
 
 # Ex4
- Zmodyfikuj program z zadania #3 tak aby wypisywał wyniki od 0  do 10 co 0.5
+ Zmodyfikuj program z zadania #2 tak aby wypisywał wyniki od 0  do 10 co 0.5
  
 # Ex5
 Napisz program, który za pomocą dwóch pętli (pętla w pętli) wyświetli na konsoli poniższy wzór n x n (dla n=4)
