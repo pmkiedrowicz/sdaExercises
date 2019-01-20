@@ -24,3 +24,7 @@ itd.
 
 # Ex3: Undefinied
 - Zmodyfikuj program z zadania #3 tak aby wypisywał wyniki tylko dla liczb parzystych
+
+
+# Ex4: Undefinied
+ Zmodyfikuj program z zadania #3 tak aby wypisywał wyniki od 0  do 10 co 0.5
