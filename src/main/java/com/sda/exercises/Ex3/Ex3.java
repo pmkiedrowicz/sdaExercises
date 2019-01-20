@@ -1,6 +1,6 @@
-package com.sda.exercises.Ex2;
+package com.sda.exercises.Ex3;
 
-public class Ex2 {
+public class Ex3 {
     static double count(double x) {
         //multiple x*x plus 3
         return x * x + 3;
@@ -13,7 +13,10 @@ public class Ex2 {
 
     public static void main(String[] args) {
         for (int i = 1; i <= 20; i++) {
-            writeOut(i, count(i));
+            //check if the 'i' value is pair
+            if (i % 2 == 0) {
+                writeOut(i, count(i));
+            }
         }
     }
 }

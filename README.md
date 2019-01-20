@@ -21,3 +21,6 @@ Dala X = 2.0 y = 7.0
 Dala X = 3.0 y = 12.0
 Dala X = 4.0 y = 19.0
 itd.
+
+# Ex3: Undefinied
+- Zmodyfikuj program z zadania #3 tak aby wypisywał wyniki tylko dla liczb parzystych
