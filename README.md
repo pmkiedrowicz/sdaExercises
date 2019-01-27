@@ -51,3 +51,6 @@ Przygotuj program, który pobiera od użytkownika 3 liczby, a następnie wskazuj
 
 # Ex11
 Zaktualizuj poprzedni program, aby umożliwiał użytkownikowi przekazanie dowolnej liczby parametrów.
+
+# Ex12
+Przygotuj program losujący 20 liczb całkowitych. Program musi pamiętać wylosowane liczby i jeśli liczba wylosowana się powtórzyła następuje ponowne losowanie, aż do wylosowania liczby unikalnej.
