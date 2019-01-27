@@ -54,3 +54,6 @@ Zaktualizuj poprzedni program, aby umożliwiał użytkownikowi przekazanie dowol
 
 # Ex12
 Przygotuj program losujący 20 liczb całkowitych. Program musi pamiętać wylosowane liczby i jeśli liczba wylosowana się powtórzyła następuje ponowne losowanie, aż do wylosowania liczby unikalnej.
+
+# Ex13
+Przygotuj klasę osoba z polami imię, nazwisko, PESEL oraz nadpisz (@override) metodę .toString() tak aby wyświetlała dane osoby w formacie "Imie: %s, Nazwisko: %s, PESEL: %s". Utwórz instancję klasy osoba, wypełnij przykładowymi danymi oraz wyświetl dane osoby korzystając z przygotowanej metody toString()
