@@ -31,10 +31,6 @@ Zmodyfikuj program z zadania #2 tak aby wypisywał wyniki tylko dla liczb parzys
  
 # Ex5
 Napisz program, który za pomocą dwóch pętli (pętla w pętli) wyświetli na konsoli poniższy wzór n x n (dla n=4)
- # # # # 
- # # # # 
- # # # # 
- # # # # 
 Pisząc program spróbój wydzielić fragment kodu do metody (np utworzyć metodę która będzie wypisywać pojedynczy znak #)
 
 # Ex6
@@ -44,18 +40,6 @@ Na przykład dla liczby int n = 18762 wypisze "2 6 7 8 1"
 # Ex7
 wykorzystując pętle w pętli napisz program który wyświetli tabliczkę mnożenia
 
- * |  1  2  3  4  5  6  7  8  9
--------------------------------
- 1 |  1  2  3  4  5  6  7  8  9
- 2 |  2  4  6  8 10 12 14 16 18
- 3 |  3  6  9 12 15 18 21 24 27
- 4 |  4  8 12 16 20 24 28 32 36
- 5 |  5 10 15 20 25 30 35 40 45
- 6 |  6 12 18 24 30 36 42 48 54
- 7 |  7 14 21 28 35 42 49 56 63
- 8 |  8 16 24 32 40 48 56 64 72
- 9 |  9 18 27 36 45 54 63 72 81
- 
 # Ex8
 Utwórz klasę punkt, posiadającą pola publiczne: double x, double y. Utwórz dwa obiekty tej klasy w funkcji main i wyświetl ich zawartość.
 
@@ -63,5 +47,5 @@ Utwórz klasę punkt, posiadającą pola publiczne: double x, double y. Utwórz 
 Dodaj do klasy punkt gettery (accessor) i settery (mutuator) oraz metodę double distance(Point other), obliczającą odległość euklidesową. Wzór: sqrt((x1-x2)^2 + (y1-y2)^2)
 
 # Ex10
-Przygotuj program, który pobiera od użytkownika 3 liczby, a następnie wskazuje największą oraz najmniejszą z nich. Dodatkowo program oblicza sumę podanych
-liczb.
+Przygotuj program, który pobiera od użytkownika 3 liczby, a następnie wskazuje największą oraz najmniejszą z nich. Dodatkowo program oblicza sumę podanych liczb.
+
