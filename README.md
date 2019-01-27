@@ -57,3 +57,6 @@ Przygotuj program losujący 20 liczb całkowitych. Program musi pamiętać wylos
 
 # Ex13
 Przygotuj klasę osoba z polami imię, nazwisko, PESEL oraz nadpisz (@override) metodę .toString() tak aby wyświetlała dane osoby w formacie "Imie: %s, Nazwisko: %s, PESEL: %s". Utwórz instancję klasy osoba, wypełnij przykładowymi danymi oraz wyświetl dane osoby korzystając z przygotowanej metody toString()
+
+# Ex14
+Przygotuj program, który losuje 100 wartości z przedziału 0-200 korzystając z klasy Random. Program po losowaniu zlicza powtórzenia każdej z liczb i wyświetla 5 liczb które najczęściej się powtarzają w kolejności malejącej..
