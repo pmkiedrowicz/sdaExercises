@@ -49,3 +49,5 @@ Dodaj do klasy punkt gettery (accessor) i settery (mutuator) oraz metodę double
 # Ex10
 Przygotuj program, który pobiera od użytkownika 3 liczby, a następnie wskazuje największą oraz najmniejszą z nich. Dodatkowo program oblicza sumę podanych liczb.
 
+# Ex11
+Zaktualizuj poprzedni program, aby umożliwiał użytkownikowi przekazanie dowolnej liczby parametrów.
