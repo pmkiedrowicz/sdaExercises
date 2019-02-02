@@ -63,3 +63,6 @@ Przygotuj program, który losuje 100 wartości z przedziału 0-200 korzystając 
 
 # Ex15
 Wylosuj 1000 liczb z zakresu 1000-2000 i zapisz je do listy. Skorzystaj z stream() w liście do wyszukania najmniejszej i największej wartości.
+
+# Ex16
+Dodaj 5 imion do kolekcji. Wybierz tą kolekcję, która posortuje wprowadzone wartość. Po dodaniu elementów wyświetl wszystkie.
