@@ -69,3 +69,6 @@ Dodaj 5 imion do kolekcji. Wybierz tą kolekcję, która posortuje wprowadzone w
 
 # Ex17
 Dodaj 10 losowych liczb do kolekcji. Korzystając z indeksów pobierz pokolei wszystkie elementy i wyświetl je.
+
+# Ex18
+Utwórz kolejkę osób do lekarza. Dodaj 10 losowych osób i wyświetl pierwsza i ostatnią osobę z kolejki. Nie korzystaj z listy ArrayList.
