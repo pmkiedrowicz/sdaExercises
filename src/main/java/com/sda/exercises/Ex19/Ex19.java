@@ -19,10 +19,7 @@ public class Ex19 {
         hashSet.add("Liam");
         hashSet.add("Benjamin");
 
-
-        //additional print names
-//        for (String el : hashSet) {
-//            System.out.println(el);
-//        }
+        //check elements of list
+//        hashSet.forEach(el -> System.out.println(el));
     }
 }

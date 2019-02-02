@@ -76,3 +76,6 @@ Utwórz kolejkę osób do lekarza. Dodaj 10 losowych osób i wyświetl pierwsza 
 # Ex19
 Jesteś firmą produkującą tabliczki z imionami. Dla każdego imienia musisz przygotować matrycę. Raz przygotowana matryca może być wykorzystywana wielokrotnie. Korzystając z odpowiedniej kolekcji dodaj do niej imiona (co najmniej 10) osób tak aby w kolekcji się nie powtarzały. Podczas dodawania dodaj kilka imion powtarzających się.
 
+# Ex20
+Jesteś osobą przetwarzająca zadania w kolejności w jakiej do Ciebie przyszły (kolejka FIFO). Wykorzystaj do tego odpowiednią kolekcję. Dodaj 10 zadań, a następnie pobierz je z kolekcji w takiej kolejności w jakiej zostały do niej dodane.
+

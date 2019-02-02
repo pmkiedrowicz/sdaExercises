@@ -3,12 +3,14 @@ package com.sda.exercises.Ex1;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+import static java.lang.System.out;
+
 public class Ex1 {
     static int lineNumber;
     static String[] daysOfWeek = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
 
     static void writeOut(String tekst) {
-        System.out.println(lineNumber + 1 + ": " + tekst);
+        out.println(lineNumber + 1 + ": " + tekst);
     }
 
     public static void main(String[] args) {

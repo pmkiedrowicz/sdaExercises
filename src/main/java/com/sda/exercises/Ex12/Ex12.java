@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
+import static java.lang.System.out;
+
 public class Ex12 {
     public static void main(String[] args) {
         Random random = new Random();
@@ -18,7 +20,7 @@ public class Ex12 {
         while (count < 20) {
             //...random a number of type int
             num = random.nextInt();
-            System.out.println(num);
+            out.println(num);
             //if list doesnt contain that number...
             if (!list.contains(num)) {
                 //...add to a list and...
@@ -27,9 +29,7 @@ public class Ex12 {
                 count++;
             }
         }
-        for (Integer el : list
-        ) {
-            System.out.println(el);
-        }
+        //print all elements
+        list.forEach(el -> out.println(el));
     }
 }

@@ -14,8 +14,6 @@ public class Ex16 {
         treeSet.add("Kimmie");
 
         //display all elements of set
-        for (String el : treeSet) {
-            System.out.println(el);
-        }
+        treeSet.forEach(el -> System.out.println(el));
     }
 }

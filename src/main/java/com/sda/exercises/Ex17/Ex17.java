@@ -20,8 +20,6 @@ public class Ex17 {
         }
 
         //print elements of a list
-        for (Integer el : list) {
-            System.out.println(el);
-        }
+        list.forEach(el-> System.out.println(el));
     }
 }

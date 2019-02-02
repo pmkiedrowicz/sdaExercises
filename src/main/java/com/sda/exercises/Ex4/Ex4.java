@@ -1,5 +1,7 @@
 package com.sda.exercises.Ex4;
 
+import static java.lang.System.out;
+
 public class Ex4 {
     static double count(double x) {
         //multiple x*x plus 3
@@ -8,7 +10,7 @@ public class Ex4 {
 
     static void writeOut(double x, double y) {
         //print data
-        System.out.println("Dala x = " + x + ", y = " + y);
+        out.println("Dala x = " + x + ", y = " + y);
     }
 
     public static void main(String[] args) {

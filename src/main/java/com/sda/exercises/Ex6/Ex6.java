@@ -1,5 +1,7 @@
 package com.sda.exercises.Ex6;
 
+import static java.lang.System.out;
+
 public class Ex6 {
     public static void main(String[] args) {
         //initial number
@@ -11,7 +13,7 @@ public class Ex6 {
         for (int i = 0; i < 5; i++) {
             //divide by divider, and get the rest
             int nn = (n / divider) % 10;
-            System.out.print(nn + " ");
+            out.print(nn + " ");
             //multiple divider by 10
             divider *= 10;
         }
