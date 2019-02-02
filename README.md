@@ -72,3 +72,7 @@ Dodaj 10 losowych liczb do kolekcji. Korzystając z indeksów pobierz pokolei ws
 
 # Ex18
 Utwórz kolejkę osób do lekarza. Dodaj 10 losowych osób i wyświetl pierwsza i ostatnią osobę z kolejki. Nie korzystaj z listy ArrayList.
+
+# Ex19
+Jesteś firmą produkującą tabliczki z imionami. Dla każdego imienia musisz przygotować matrycę. Raz przygotowana matryca może być wykorzystywana wielokrotnie. Korzystając z odpowiedniej kolekcji dodaj do niej imiona (co najmniej 10) osób tak aby w kolekcji się nie powtarzały. Podczas dodawania dodaj kilka imion powtarzających się.
+
