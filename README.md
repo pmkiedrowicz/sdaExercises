@@ -60,3 +60,6 @@ Przygotuj klasę osoba z polami imię, nazwisko, PESEL oraz nadpisz (@override) 
 
 # Ex14
 Przygotuj program, który losuje 100 wartości z przedziału 0-200 korzystając z klasy Random. Program po losowaniu zlicza powtórzenia każdej z liczb i wyświetla 5 liczb które najczęściej się powtarzają w kolejności malejącej..
+
+# Ex15
+Wylosuj 1000 liczb z zakresu 1000-2000 i zapisz je do listy. Skorzystaj z stream() w liście do wyszukania najmniejszej i największej wartości.
