@@ -66,3 +66,6 @@ Wylosuj 1000 liczb z zakresu 1000-2000 i zapisz je do listy. Skorzystaj z stream
 
 # Ex16
 Dodaj 5 imion do kolekcji. Wybierz tą kolekcję, która posortuje wprowadzone wartość. Po dodaniu elementów wyświetl wszystkie.
+
+# Ex17
+Dodaj 10 losowych liczb do kolekcji. Korzystając z indeksów pobierz pokolei wszystkie elementy i wyświetl je.
