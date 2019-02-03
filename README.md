@@ -161,3 +161,8 @@ Przygotuj aplikację składającą się z 2 wątków.
 Utwórz każdy wątek samodzielnie.
 Niech każdy wątek wyświetla liczby całkowite od 1-10.
 ```
+# Ex29
+```
+Zmodyfikuj aplikację tak, aby wątek 2 rozpoczął przetwarzanie po zakończeniu wyświetlania liczb przez wątek 1.
+Skorzystaj z operacji join().
+```
