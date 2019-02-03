@@ -139,3 +139,7 @@ Korzystając ze strumieni znajdź imię Jan i wyświetl je.
 Utwórz nieposortowaną kolekcję z 10 dowolnymi i unikatowymi imionami.
 Korzystając ze strumieni posortuj kolekcję i wyświetl ją.
 ```
+# Ex25
+```
+Utwórz kolekcję z 6 liczbami. Korzystając z strumieni znajdź maksymalną i minimalną liczbę znajdującą się w kolekcji.
+```
