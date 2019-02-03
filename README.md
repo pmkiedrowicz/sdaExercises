@@ -124,3 +124,8 @@ Przygotuj 2 implementację mechanizmu logowania.
 Jedna wyświetla informacje na konsoli, druga zapisuje logi do pliku.
 Przygotuj wspólny interfejs dla mechanizmu logowania i wykorzystaj go w aplikacji.
 ```
+# Ex22
+```
+Utwórz kolekcję, na następnie dodaj do niej 5 imion.
+Korzystając z Stream zmodyfikuj kolekcję tak, aby imiona były pisane dużymi literami (UPPERCASE), a następnie wyświetl wszystkie imiona
+```
