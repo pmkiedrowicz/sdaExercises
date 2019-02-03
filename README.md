@@ -143,3 +143,15 @@ Korzystając ze strumieni posortuj kolekcję i wyświetl ją.
 ```
 Utwórz kolekcję z 6 liczbami. Korzystając z strumieni znajdź maksymalną i minimalną liczbę znajdującą się w kolekcji.
 ```
+# Ex25
+```
+Utwórz klasę pracownik posiadającą imię, nazwisko i wynagrodzenie.
+Dodaj 10 pracowników do kolekcji ArrayList.
+Korzystając ze strumieni znajdź średnie wynagrodzenie pracownika.
+Następnie korzystając ze strumieni wyświetl wszystkich pracowników zarabiających więcej niż średnia.
+```
+# Ex26
+```
+Przygotuj aplikację uruchamiającą jeden wątek.
+Niech wątek wyświetla informację hello world.
+```
