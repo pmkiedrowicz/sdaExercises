@@ -134,3 +134,8 @@ Korzystając z Stream zmodyfikuj kolekcję tak, aby imiona były pisane dużymi 
 Utwórz kolekcję z 10 imionami (W kolekcji musi pojawić się imię Jan).
 Korzystając ze strumieni znajdź imię Jan i wyświetl je.
 ```
+# Ex24
+```
+Utwórz nieposortowaną kolekcję z 10 dowolnymi i unikatowymi imionami.
+Korzystając ze strumieni posortuj kolekcję i wyświetl ją.
+```
