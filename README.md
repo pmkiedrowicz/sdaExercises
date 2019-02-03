@@ -129,3 +129,8 @@ Przygotuj wspólny interfejs dla mechanizmu logowania i wykorzystaj go w aplikac
 Utwórz kolekcję, na następnie dodaj do niej 5 imion.
 Korzystając z Stream zmodyfikuj kolekcję tak, aby imiona były pisane dużymi literami (UPPERCASE), a następnie wyświetl wszystkie imiona
 ```
+# Ex23
+```
+Utwórz kolekcję z 10 imionami (W kolekcji musi pojawić się imię Jan).
+Korzystając ze strumieni znajdź imię Jan i wyświetl je.
+```
