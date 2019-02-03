@@ -98,3 +98,7 @@ Jesteś firmą produkującą tabliczki z imionami. Dla każdego imienia musisz p
 ```
 Jesteś osobą przetwarzająca zadania w kolejności w jakiej do Ciebie przyszły (kolejka FIFO). Wykorzystaj do tego odpowiednią kolekcję. Dodaj 10 zadań, a następnie pobierz je z kolekcji w takiej kolejności w jakiej zostały do niej dodane.
 ```
+# Ex21
+```
+Przygotuj aplikację konsolową, która pobiera od użytkownika imię i wyświetla go na konsoli. Do aplikacji dodaj logi informujące o wyświetleniu komunikatu użytkownikowi, następnie po pobraniu imienia zalogowaniu informacji "Podano imię <podane_imie>". Przygotuj 2 implementację mechanizmu logowania. Jedna wyświetla informacje na konsoli, druga zapisuje logi do pliku. Przygotuj wspólny interfejs dla mechanizmu logowania i wykorzystaj go w aplikacji.
+```
