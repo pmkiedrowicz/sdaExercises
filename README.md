@@ -166,3 +166,10 @@ Niech każdy wątek wyświetla liczby całkowite od 1-10.
 Zmodyfikuj aplikację tak, aby wątek 2 rozpoczął przetwarzanie po zakończeniu wyświetlania liczb przez wątek 1.
 Skorzystaj z operacji join().
 ```
+# Ex30
+```
+Utwórz aplikację wielowątkową.
+Skorzystaj ze stałej (5 sztuk) puli wątków.
+Niech każdy wątek wyświetla kolejno liczby z przedziału 1-10.
+Każdy z wątków powinien dodatkowo wyświetlać informację o rozpoczęciu przetwarzania i jego zakończeniu.
+```
