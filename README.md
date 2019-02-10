@@ -173,13 +173,3 @@ Skorzystaj ze stałej (5 sztuk) puli wątków.
 Niech każdy wątek wyświetla kolejno liczby z przedziału 1-10.
 Każdy z wątków powinien dodatkowo wyświetlać informację o rozpoczęciu przetwarzania i jego zakończeniu.
 ```
-# Ex31
-```
-Przygotuj grę.
-Program losuje liczbę od 0 do 100.
-Celem użytkownika jest zgadnięcie wylosowanej przez program liczby.
-Jeśli wylosowana liczba jest większa od wprowadzonej liczby program wyświetla komunikat.
-Wprowadzona liczba jest mniejsza od wylosowanej. Gramy dalej.
-W przypadku gdy wprowadzona liczba jest większa od wylosowanej program wyświetla komunikat Wprowadzona liczba jest większa od wylosowanej.
-Gramy dalej. Jeśli użytkownik podaje liczbę wylosowaną to program wyświetla komunikat z gratulacjami i informacja w ilu krokach udało się odgadnąć liczbę.
-```
