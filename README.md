@@ -173,3 +173,7 @@ Skorzystaj ze stałej (5 sztuk) puli wątków.
 Niech każdy wątek wyświetla kolejno liczby z przedziału 1-10.
 Każdy z wątków powinien dodatkowo wyświetlać informację o rozpoczęciu przetwarzania i jego zakończeniu.
 ```
+# Ex31
+```
+Przygotuj program obliczający objętość walca.
+```

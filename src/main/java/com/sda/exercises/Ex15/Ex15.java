@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
+import static java.lang.System.out;
+
 public class Ex15 {
     //basic randomizer with range(min, max) ability
     static int randomIntWithRange(int min, int max) {
@@ -26,7 +28,7 @@ public class Ex15 {
         sortedList = list.stream().sorted().collect(Collectors.toList());
 
         //get first and last element of sortedList
-        System.out.println(sortedList.get(0));
-        System.out.println(sortedList.get(999));
+        out.println(sortedList.get(0));
+        out.println(sortedList.get(999));
     }
 }
