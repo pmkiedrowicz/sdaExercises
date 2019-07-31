@@ -177,3 +177,7 @@ Każdy z wątków powinien dodatkowo wyświetlać informację o rozpoczęciu prz
 ```
 Przygotuj program obliczający objętość walca.
 ```
+# Ex32
+```
+Przygotuj program obliczający ciąg Fibonacciego
+```
